@@ -48,7 +48,7 @@ Telegram published the protocol and the clients, but not the server. I spent fiv
 I write about incidents from production — the kind where the symptom has nothing to do with the cause.
 
 - 🇷🇺 [Telegram](https://t.me/aleksdolgop_ru) · [Habr](https://habr.com/)
-- 🇬🇧 [Telegram](https://t.me/aleksdolgop_eng) · [dev.to](https://dev.to/)
+- 🇬🇧 [Telegram](https://t.me/aleksdolgop_en) · [dev.to](https://dev.to/)
 
 ---
 
