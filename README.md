@@ -37,7 +37,6 @@ I build payment infrastructure, crypto integrations and distributed backends tha
 | [promise-deduplicate](https://github.com/AleksDolgop/promise-deduplicate) | Deduplicates concurrent identical promises by key — one in-flight call instead of a hundred. Used in production |
 | [tl-type](https://github.com/AleksDolgop/tl-type) | VS Code extension for Telegram Type Language schemas |
 | [time-offset](https://github.com/AleksDolgop/time-offset) | Accumulative calculator for time offsets and intervals |
-| [html-docx-templater](https://github.com/AleksDolgop/html-docx-templater) | Generates .docx documents from HTML templates and CSV data |
 
 **Building now:** an open server-side MTProto stack — schema-first codegen, crypto primitives, transport and server.
 Telegram published the protocol and the clients, but not the server. I spent five years writing one; now I'm building an open implementation from scratch.
