@@ -40,6 +40,6 @@ I write about techniques from systems that handle real load, and about productio
 
 🇷🇺 [Telegram](https://t.me/aleksdolgop_ru) · [Habr](https://habr.com/ru/users/AleksDolgop/)
 🇬🇧 [Telegram](https://t.me/aleksdolgop_en) · [dev.to](https://dev.to/aleksdolgop)
-🎥 [YouTube](youtube.com/@aleksdolgop)
+🎥 [YouTube](https://youtube.com/@aleksdolgop)
 
 📫 `me@aleksdolgop.dev` · [aleksdolgop.dev](https://aleksdolgop.dev)
