@@ -28,7 +28,6 @@ Currently working on a payment platform in the iGaming vertical.
 | [promise-deduplicate](https://github.com/AleksDolgop/promise-deduplicate) | Collapses concurrent identical promises by key. A hundred callers, one actual call. Running in production |
 | [tl-type](https://github.com/AleksDolgop/tl-type) | VS Code extension for Telegram Type Language schemas |
 | [time-offset](https://github.com/AleksDolgop/time-offset) | Accumulative calculator for time offsets and intervals |
-| [html-docx-templater](https://github.com/AleksDolgop/html-docx-templater) | Generates .docx documents from HTML templates and CSV data |
 
 **Working on now:** an open server-side MTProto stack. Schema codegen, crypto primitives, transport, server.
 
